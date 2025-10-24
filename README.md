@@ -64,11 +64,4 @@ I am currently developing a comprehensive **SOC Homelab** project to simulate re
 
 ---
 
-### 📊 My GitHub Stats
 
-(This section will populate automatically as you commit to your repositories.)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Nurettin's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
